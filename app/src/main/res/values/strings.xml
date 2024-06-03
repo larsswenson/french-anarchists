@@ -1,0 +1,16 @@
+
+<resources>
+    <string name="app_name">French Anarchists</string>
+    <string name="hero1">August Solier</string>
+    <string name="description1">18. Designer. Anarchist.</string>
+    <string name="hero2">Annette Soubrier</string>
+    <string name="description2">28. Seamstress. Anarchist.</string>
+    <string name="hero3">Louis Lustenberger</string>
+    <string name="description3">38. Chiseler. Anarchist.</string>
+    <string name="hero4">Eugene Thibivilliers</string>
+    <string name="description4">23. Metal Polisher. Anarchist.</string>
+    <string name="hero5">Romain Labeyrie</string>
+    <string name="description5">19. Sculptor. Anarchist.</string>
+    <string name="hero6">Minna Schrader</string>
+    <string name="description6">19. Sculptor. Conspirator.</string>
+</resources>
